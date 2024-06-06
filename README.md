@@ -1,7 +1,6 @@
 # Poisson_gols
 
-Modelo Poisson com com abordagem bayesiana para estimar efeitos de ataque e defesa dos times nos jogos.
-
+Modelo Poisson com abordagem bayesiana para estimar efeitos de ataque e defesa dos times nos jogos.
 
 Referência : Bayesian hierarchical model for the prediction of football results
 
